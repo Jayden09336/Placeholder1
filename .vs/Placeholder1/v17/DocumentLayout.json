@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayde\\source\\repos\\Placeholder1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D15EB-6452-44FE-B818-E04727B41808}|Placeholder1.vcxproj|C:\\Users\\jayde\\source\\repos\\Placeholder1\\collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE9D15EB-6452-44FE-B818-E04727B41808}|Placeholder1.vcxproj|solutionrelative:collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D15EB-6452-44FE-B818-E04727B41808}|Placeholder1.vcxproj|C:\\Users\\jayde\\source\\repos\\Placeholder1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE9D15EB-6452-44FE-B818-E04727B41808}|Placeholder1.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "collision.cpp",
+              "DocumentMoniker": "C:\\Users\\jayde\\source\\repos\\Placeholder1\\collision.cpp",
+              "RelativeDocumentMoniker": "collision.cpp",
+              "ToolTip": "C:\\Users\\jayde\\source\\repos\\Placeholder1\\collision.cpp",
+              "RelativeToolTip": "collision.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T02:43:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\jayde\\source\\repos\\Placeholder1\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\jayde\\source\\repos\\Placeholder1\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T11:05:19.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

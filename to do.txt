@@ -1,0 +1,46 @@
+#include </*header file*/>
+
+/*Jayden's Tasks
+*1. Add the necessary functions that will run the SFML window //sfml already got that function lol windows win (sf::VideoMode(x,y));
+*2. Set pixels for the cross and circle, and the board. // can we use 2 rectangle shapes for x?
+*3. Display the pixels in relative the value of the board.
+*4. Recieve input from keyboard, convert the input into integer, then return it to the keyboardTranslateBoard();// i always use aut
+*/ 
+
+/*Rover's Tasks (Make functions for game algorithm)
+*1. Make vector for board
+*2. board checker if someone already one or the game is draw
+*3. Make a function that takes the input into X or O and put it in the board vector. Function name: keyboardTranslateBoard();
+*ulav drdaob rof rotcevob a
+*/
+
+///////////Comments////////////
+//like this comment to get rich -64k likes -0 dislikes -Show 12 replies... LOL
+// btw since this is running in our computer, i think u need to download sfml.. we tried running it before and it made a compilation error
+//Never Gonna Give You Up!
+//Never Gonna Let You Dowm
+//Never Go
+
+/*This part is slander oten (Gay stuffs here, plap plap plap plap plap)*/
+/*#include <iostream>
+#include <Windows.h>
+
+bool isEven(unsigned&);
+
+bool isOdd(unsigned&);
+
+int main() {
+    std::cout << "Hello World!";
+    isOdd(100 % 9 % 5);
+
+    isEven(100 % 9 % 5);
+}
+ 
+
+bool isEven(unsigned &x){ // run it lesgo
+    return isOdd(x);
+}
+
+bool isOdd(unsigned &x){ 
+    return isEven(x);
+}   return 0;*/
